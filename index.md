@@ -5,9 +5,10 @@ title: Accueil
 
 # Bienvenue sur mon Portfolio
 
-Je suis **[Yanis]**, étudiant en dev web.
-Ce site présente mes compétences et mes réalisations.
+Je suis **Yanis**, étudiant en première année à **Epitech**.
+Ce site a pour but de présenter mon parcours académique et mes réalisations techniques.
 
-![Ma Photo](https://static0.thegamerimages.com/wordpress/wp-content/uploads/2021/06/Pikachu_Hey_You_Pokemon_N64.jpg?w=1600&h=900&fit=crop) ### Accès rapide
-* [En savoir plus sur moi](./about.md)
-* [Mes projets](./projects/)
+### Navigation Rapide
+* **[Mon Profil](./about.md)** : En savoir plus sur ma formation et mes compétences.
+* **[Mes Projets](./projects/)** : Découvrir mes travaux techniques (C, Système, Web).
+* **[Contact](./contact.md)** : Mes coordonnées et réseaux professionnels.

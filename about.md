@@ -5,7 +5,12 @@ permalink: /about/
 ---
 
 ## Mon Profil
-Étudiant passionné par le développement.
+Passionné par le développement logiciel, je cherche à approfondir mes connaissances en programmation système et web.
 
-## 🎓 Parcours
-* **Epitech WAC** (2025 - Présent)
+## 🎓 Formation
+* **2025 - Présent :** Epitech 
+
+## 💻 Compétences
+* **Langages :** Js, PhP, HTML/CSS
+* **Outils :** Git, GitHub, VSCode
+* **Langues :** Français , Anglais 

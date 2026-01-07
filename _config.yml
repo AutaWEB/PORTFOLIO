@@ -1,0 +1,12 @@
+title: Portfolio de Yanis
+email: yanis.rouag@epitech.eu
+description: Portfolio étudiant Epitech.
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-seo-tag
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
