@@ -10,5 +10,5 @@ Ce site a pour but de présenter mon parcours académique et mes réalisations t
 
 ### Navigation Rapide
 * **[Mon Profil](./about.md)** : En savoir plus sur ma formation et mes compétences.
-* **[Mes Projets](./projects/)** : Découvrir mes travaux techniques (C, Système, Web).
+* **[Mes Projets](./projects/)** : Découvrir mes travaux techniques (Système, Web).
 * **[Contact](./contact.md)** : Mes coordonnées et réseaux professionnels.
