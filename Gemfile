@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "jekyll-theme-hacker" 
+gem "minima"
 gem "jekyll-seo-tag"
 
 gem "webrick"
