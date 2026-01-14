@@ -1,0 +1,16 @@
+title: Portfolio de Yanis
+email: yanis.rouag@epitech.eu
+description: Portfolio étudiant Epitech.
+url: "https://autaweb.github.io"
+
+
+baseurl: "/PORTFOLIO"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% seo %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header role="banner">
+    <div class="header-content">
+      <a href="{{ site.baseurl }}/" class="logo-link">{{ site.title }}</a>
+      <nav role="navigation" aria-label="Menu principal">
+        <a href="{{ site.baseurl }}/">Accueil</a>
+        <a href="{{ site.baseurl }}/about/">À Propos</a>
+        <a href="{{ site.baseurl }}/projects.html">Projets</a>
+        <a href="{{ site.baseurl }}/contact/">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="container">
+    {{ content }}
+  </main>
+
+  <footer role="contentinfo">
+    <p>© 2026 Yanis Rouag - <a href="https://github.com/autaweb" aria-label="Voir mon profil GitHub">GitHub</a></p>
+  </footer>
+</body>
+</html>
